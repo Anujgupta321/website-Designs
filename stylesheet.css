@@ -1,0 +1,912 @@
+*{margin:0px;
+padding:0px;
+outline:0px;}
+
+#wrapper{width:100%;
+         height:auto;
+	margin: 0 auto;
+}
+body{background-image:linear-gradient(to bottom right,black,gray,black); }
+
+#logo {width:260px;
+height:180px;
+background-image:url("images/logo2.png");
+	background-repeat:round;
+	background-size:cover;
+	position: relative;
+	top:-55%;
+}
+
+.hcr{font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; 
+     color:#ffffff; 
+	font-weight: bold; 
+	font-size: 80px; 
+	text-align: center; 
+    margin: 0 auto;
+	
+}
+
+#header {width:100%;
+height:154px;
+background-image: url("images/banner31.png");
+	background-repeat:round;
+	background-size:cover;
+margin:0 auto;
+	position:relative;
+}
+
+
+#nav {width:100%; height:30px; text-align: center; margin-top: 10px; position:absolute; top:79%; }
+
+ul {margin:0px; padding:0px;}
+
+ul li {display:inline; padding:0 40px;   }
+
+li a {text-decoration:none; color:#FFFFFF; font-size: 20px;  }
+
+ul li a:hover{color: grey; text-decoration:underline; }
+
+#box {width:100%; 
+	height:auto; 
+
+}
+
+.heading {font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; 
+color:#ffffff; 
+	font-weight: bold; 
+	font-size: 60px; 
+	text-align: center; 
+	padding:10px;
+	line-height: 50px;
+  margin-bottom: 30px;
+}
+
+
+#banner{width:700px; 
+	height:500px;
+background-image: url("images/design-everything.png");
+background-repeat:no-repeat;
+background-size:cover;	
+margin:0 auto;
+padding:20px 0px;
+}
+
+#box1 {width:100%;
+height:160px;
+
+
+}
+
+.text {color:#FFFFFF;
+font-size:22px;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+text-align:center;
+	
+padding:0 40px;
+line-height: 28px;
+	
+}
+
+
+#toc {width:100%; 
+height:2500px;
+
+	background:#000000;
+background-image: url("images/types of carpets2.png");
+	background-size:cover;
+	background-repeat:round;	
+background-attachment:fixed;
+}
+
+#carpetbox {height:auto;}
+
+.box { width:300px; height:auto;  margin:20px;  padding: 10px; float:right; background-color:#200909; border-radius: 10px;
+
+ }
+
+.box .headtext {font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+color:#FFFFFF; font-weight: bold; font-size:22px; text-align: center; margin: 10px 0px }
+
+.box .img {width:300px; overflow: hidden;}
+
+.box .img .imgscale {width:300px;  trasition:all; transition-duration: 2s; opacity: .5;}
+
+.box .img .imgscale:hover{transform: scale(1.4);   
+   opacity: 1; }
+
+.box .tocpara {font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+color:#FFFFFF; font-size:18px; text-align:left; padding-top: 8px; line-height: 26px;
+	}
+
+
+.img1 { width:200px; height:200px; border:16px ridge #DCD9D9 ; display: inline-flex; margin: 34px; }
+
+  #img1 {
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   }
+	 
+ #img1:hover { 
+	  
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img2 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   }
+	 
+ #img2:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+
+#img3 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img3:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+
+#img4 { 
+	  
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img4:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+
+#img5 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img5:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img6 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img6:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img7 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img7:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img8 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img8:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img9 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img9:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+
+#img10 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img10:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img11 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img11:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img12 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img12:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img13 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img13:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+
+#img14 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img14:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img15 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img15:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+
+#img16 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img16:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img17 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img17:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img18 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img18:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img19 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img19:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img20 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img20:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img21 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img21:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img22 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img22:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img23 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img23:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img24 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img24:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img25 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img25:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img26 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img26:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img27 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img27:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img28 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img28:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img29 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img29:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img30 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img30:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img31 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img31:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img32 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img32:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img33 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img33:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img34 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img34:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#img35 { 
+	    
+	  border-radius:10px; 
+	  background-repeat: no-repeat;
+	  transition-duration:1s; 
+	  transition-property:all;
+	   
+}
+	 
+ #img35:hover { 
+	   
+	     border-radius: 10px;
+	      transform:scale(1.1);
+			transition-delay:0;
+			transition-timing-function:ease-in;
+			 
+}
+
+#bg {width:100%;  
+     height:800px; 
+	background-image: url("images/about usbg2.jpg"); 
+	background-repeat:no-repeat; 
+	background-size:cover;
+    background-attachment: fixed;
+	
+}
+
+.heading{padding-top: 60px;}
+
+#actext {width:600px; height:400px; margin: 0 auto; 
+	     }
+
+#actext .para { 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; 
+	font-size: 22px;
+	text-align:center; 
+	color:#ffffff; 
+	line-height:30px;
+	margin: 30px 0px; 
+
+}
+
+#projectbox{width:100%; 
+            height:auto; 
+
+}
+
+.hotelhead {font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-size:30px; 
+	color:#FFFFFF; 
+	text-align:center; 
+	padding-bottom: 20px;
+
+}
+
+.projectpara {color:#FFFFFF;
+font-size:20px;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+text-align:center;
+margin:20px 0px;	
+padding:0 40px;
+line-height: 28px;
+
+}	
+
+#project {width:100%; 
+          height:auto; 
+	padding:40px 0px; 
+	display: inline-flex;
+}
+
+.imghead {font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-size:20px; 
+	color:#FFFFFF; 
+	text-align:center; 
+	padding-bottom: 20px; 
+	margin: 0 auto;
+}
+
+.img {  
+       background-size:cover; 
+	background-repeat:no-repeat; 
+	background-border:2px solid #ffffff;
+}
+
+
+#contactbox {width:100%;  
+             height:auto;  
+   
+}
+
+ .contactform { width:100%;  
+	 height:auto;
+	 font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";  
+  font-size:28px;  
+	color:#FFFFFF;  
+     font-weight: bold;  
+	text-align: center; 
+	 
+}
+
+.formbox {width:auto;  
+  height:40px;  
+  border-radius:10px; 
+	background-color:#000000;
+  color:#ffffff;  
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";  
+	font-size:18px;
+  margin:6px 0;
+
+}
+
+.date { 
+width:120px;  
+	height:40px;  
+	background-color:#000000;  
+	color:#FFFFFF;
+border-radius: 10px;
+ text-align:center;
+margin:0 auto;
+}
+
+.formbutton {width:100px;  
+	height:auto;  
+	background-color:#000000;  
+	color:#FFFFFF; 
+	font-weight: 400; 
+	border-radius: 10px;  
+	padding:6px;  
+	display:inline-block;  
+	font-size:20px;
+
+}
+.formbutton a{
+	text-decoration: none;
+	color:#FFFFFF;
+}
+
+.formbutton:hover{color: gray;}
+
+#footer {width:100%; 
+  height:500px;  
+	background-color:#000000;
+opacity: 70%;
+}
+
+.footertext {font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+font-size:18px; 
+color:#FFFFFF; 
+padding:40px;
+width:300px;
+float: left;
+margin-left: 60px;
+}
+
+.visitfooter {font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+font-size:18px; 
+	color:#FFFFFF; 
+	text-align:center;
+	float: left;
+	margin-left: 60px;
+}
+
+.map {width:700px;
+height:200px;
+float: right;
+margin:40px;
+
+}
+
+
+
+
+
