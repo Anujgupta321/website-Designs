@@ -10,7 +10,7 @@ body{background-image:linear-gradient(to bottom right,black,gray,black); }
 
 #logo {width:260px;
 height:180px;
-background-image:url("images/logo2.png");
+background-image:./url("../images/logo2.png");
 	background-repeat:round;
 	background-size:cover;
 	position: relative;
@@ -28,7 +28,7 @@ background-image:url("images/logo2.png");
 
 #header {width:100%;
 height:154px;
-background-image: url("images/banner31.png");
+background-image: url("../images/banner31.png");
 	background-repeat:round;
 	background-size:cover;
 margin:0 auto;
@@ -64,7 +64,7 @@ color:#ffffff;
 
 #banner{width:700px; 
 	height:500px;
-background-image: url("images/design-everything.png");
+background-image: url("../images/design-everything.png");
 background-repeat:no-repeat;
 background-size:cover;	
 margin:0 auto;
@@ -92,7 +92,7 @@ line-height: 28px;
 height:2500px;
 
 	background:#000000;
-background-image: url("images/types of carpets2.png");
+background-image: url("./images/types of carpets2.png");
 	background-size:cover;
 	background-repeat:round;	
 background-attachment:fixed;
@@ -756,7 +756,7 @@ color:#FFFFFF; font-size:18px; text-align:left; padding-top: 8px; line-height: 2
 
 #bg {width:100%;  
      height:800px; 
-	background-image: url("images/about usbg2.jpg"); 
+	background-image: url("../images/about usbg2.jpg"); 
 	background-repeat:no-repeat; 
 	background-size:cover;
     background-attachment: fixed;
