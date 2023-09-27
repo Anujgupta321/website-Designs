@@ -92,7 +92,7 @@ line-height: 28px;
 height:2500px;
 
 	background:#000000;
-background-image: url("./images/types of carpets2.png");
+background-image: url("images/types of carpets2.png");
 	background-size:cover;
 	background-repeat:round;	
 background-attachment:fixed;
@@ -756,7 +756,7 @@ color:#FFFFFF; font-size:18px; text-align:left; padding-top: 8px; line-height: 2
 
 #bg {width:100%;  
      height:800px; 
-	background-image: url("../images/about usbg2.jpg"); 
+	background-image: url("images/about usbg2.jpg"); 
 	background-repeat:no-repeat; 
 	background-size:cover;
     background-attachment: fixed;
