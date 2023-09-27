@@ -10,7 +10,7 @@ body{background-image:linear-gradient(to bottom right,black,gray,black); }
 
 #logo {width:260px;
 height:180px;
-background-image:url("images/logo2.png");
+background-image: url("images/logo2.png");
 	background-repeat:round;
 	background-size:cover;
 	position: relative;
